@@ -1,0 +1,24 @@
+/* Logs.css */
+
+.logs {
+  padding: 20px;
+  text-align: left;
+}
+
+.logs h2 {
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.logs ul {
+  list-style: none;
+  padding: 0;
+}
+
+.logs li {
+  background: #f9f9f9;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
